@@ -1,2 +1,2 @@
-#Nombre: Enrique Reynaldo Iturri Rodriguez
+# Nombre: Enrique Reynaldo Iturri Rodriguez
 # Materia: INF-122
