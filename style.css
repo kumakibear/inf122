@@ -33,16 +33,16 @@ ul li{
     background-color: rgb(0,0,225);
 }
 .etiqueta{
-    background-color: blue;
-    
+    background-color: #ff8e8e;
+    color: #ffffff;
 }
 .sesion{
     border-radius: 10px;
     color: #000000;
-    background-color: #ffffff;
+    background-color: #15c9e0;
 }
 .registro{
     border-radius: 10px;
     color: #000000;
-    background-color: #ffffff;
+    background-color: #63eb6a;
 }
