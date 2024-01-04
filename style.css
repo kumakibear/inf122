@@ -2,9 +2,11 @@ body{
     background-color:0f0f0f;
 }
 h1{
-   color: rgb(255,0,0);
-   font-size: 25px;
-
+    text-align: center;
+   background-color: #DFF6FF;
+}
+h2{
+    color: #DFF6FF;
 }
 p{
     font-size: larg;
@@ -33,4 +35,14 @@ ul li{
 .etiqueta{
     background-color: blue;
     
+}
+.sesion{
+    border-radius: 10px;
+    color: #000000;
+    background-color: #ffffff;
+}
+.registro{
+    border-radius: 10px;
+    color: #000000;
+    background-color: #ffffff;
 }
