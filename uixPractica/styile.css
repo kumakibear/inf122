@@ -1,4 +1,25 @@
+:root{
+    --white:#FFFFFF;
+    --black:#000000;
+    --purple: #6F2CFF;
+    --ligth-putple:#EFE9F9;
+    --red-heart:#A50954;
+    --blue-heart:#ACD9B2;
+    --sm:14px;
+    --md:20px;
+    --lg:60px;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;.
+
+}
+.card-container {
+    display: flex;
+    align-items: center;
+    margin: 16px 0 16px 0;
+}
 /*
+
 Selectores de tipo
 */
 div {
