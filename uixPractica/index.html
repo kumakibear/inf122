@@ -12,7 +12,7 @@
     <title>Document</title>
     <style>
         :root {
-            --white: #FFFFFF;
+            --white: #363a34ad;
             --black: #000000;
             --purple: #6F2CFF;
             --light-purple: #EFE9F9;
@@ -84,6 +84,8 @@
         .card-container {
             display: flex;
             align-items: center;
+            /*esto modifica la columna*/
+            flex-direction:row-reverse;
             margin: 16px 0 16px 0;
         }
 
@@ -134,13 +136,14 @@
             <button class="primary-button" value="">
                 <span>Download Brochure</span>
             </button>
+            
         </div>
         <div class="more-info">
             <section class="icons-container">
                 <div class="card-container">
                     <div class="card-icon">
                         <figure>
-                            <img src="./icons/bx_bxs-book-heart.svg" alt="" class="logo">
+                            <img src="https://www.svgrepo.com/show/424905/instagram-logo-facebook.svg" alt="" class="logo">
                         </figure>
                     </div>
 
