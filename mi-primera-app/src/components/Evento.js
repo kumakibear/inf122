@@ -18,6 +18,13 @@ function Evento() {
           ¿Cuánto conoces de Python?
           Aprende a trabajar en equipo resolviendo increíbles acertijo
           ¡Anímate a ser parte de esta actividad!</p>
+        <div className="socialLink">
+          <img className="logo"
+          src={require("../images/logoF.jpeg")}
+          alt="foto del evento"
+        />
+      </div>
+      
       </div>
     </div>
   );
