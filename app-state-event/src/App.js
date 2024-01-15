@@ -8,6 +8,7 @@ function App() {
   const click = () => {
     setNumClicks(nroClicks + 1);
   }
+  
   const reiniciar = () => {
     setNumClicks(0);
   }
