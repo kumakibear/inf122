@@ -8,9 +8,9 @@ function Perfil(){
     }
     return(
         <div className="contenedor">
-            <Form title="ususario"/><p/>
-            <Form title="apellido"/><p/>
-            <Form title="contraseña" tipo="password"/><p/>
+            <Form title="ususario"/>Usuario<p/>
+            <Form title="apellido"/>Apellido<p/>
+            <Form title="contraseña" tipo="password"/>Contraseña<p/>
             <div>
                 <Botones txt="registrar"  funtionb={()=>mostrar("registrar")}/>
             </div>
